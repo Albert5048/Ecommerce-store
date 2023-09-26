@@ -110,6 +110,7 @@ top: 110px;
   position: relative;
   bottom: 100px;
   width: 100%;
+  flex-wrap:wrap;
 }
 .home-container-wrap {
   height: auto;
